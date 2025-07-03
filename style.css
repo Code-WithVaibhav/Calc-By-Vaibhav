@@ -4,18 +4,7 @@
   box-sizing: border-box;
   font-family: 'Segoe UI', sans-serif;
 }
-.brand {
-  font-family: sans-serif;
-  font-size: 10px;
-  text-align: center;
-  color: #fff;
-}
-.tagline {
-  font-size: 14px;
-  color: #aaa;
-  text-align: center;
-  margin-top: 10px;
-}
+
 body {
   display: flex;
   justify-content: center;
